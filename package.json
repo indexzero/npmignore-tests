@@ -1,7 +1,7 @@
 {
   "name": "npmignore-tests",
-  "version": "1.0.0",
   "description": "Checks to see what npmignores tests",
+  "version": "1.0.0",
   "main": "index.js",
   "bin": "bin/npmignore-tests",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
